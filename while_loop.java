@@ -5,7 +5,7 @@ class Main {
     // Create a while loop that repeats while number is greater than 0
     while( number > 0){
       System.out.println(number);
-      number--;
+      number = number - 1;
     }
     
   }
